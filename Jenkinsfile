@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/Dhiviya-S/Jenkins_Robot'
+                git 'https://github.com/Dhiviya-S/Robo_Jenkin'
             }
         }
 
